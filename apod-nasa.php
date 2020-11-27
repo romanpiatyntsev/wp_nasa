@@ -6,8 +6,8 @@
  * Version:           1.0.0
  * Author:            Roman Piatyntsev
  * Author URI:        https://nasa.sitex.pp.ua
- * License: 					GPLv3 or later
- * License URI: 			https://www.gnu.org/licenses/gpl-3.0.html
+ * License:           GPLv3 or later
+ * License URI:	      https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       apod_locale
  * Domain Path:       /languages
  */
