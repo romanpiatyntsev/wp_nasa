@@ -22,7 +22,7 @@ class APOD_Nasa {
 
 	public static function get_instance() {
 		if ( is_null( self::$_instance ) ) {
-				self::$_instance = new self();
+			self::$_instance = new self();
 		}
 		return self::$_instance;
 	}
@@ -51,7 +51,7 @@ class APOD_Nasa {
 
 	private function define( $name, $value ) {
 		if ( ! defined( $name ) ) {
-				define( $name, $value );
+			define( $name, $value );
 		}
 	}
 
