@@ -1,0 +1,49 @@
+# Translation of APOD plugin in Russian
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Project-Id-Version: APOD - Administration\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "NASA Images"
+msgstr "NASA Изображения"
+
+msgid "APOD: Astronomy Picture of the Day settings"
+msgstr "APOD: Астрономическая Картина Дня настройки"
+
+msgid "API settings"
+msgstr "API gараметры"
+
+msgid "Where to get API Key"
+msgstr "Где получить АПИ ключ"
+
+msgid "Downloaded image"
+msgstr "Загруженное изображение"
+
+msgid "Enter API key here"
+msgstr "Введите ключ АПИ здесь"
+
+msgid "Error receiving data from APOD API"
+msgstr "Ошибка получения данных от APOD API"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Generate API Key"
+msgstr "Сгенерировать АПИ Ключ"
+
+msgid "Paste the Key into the field below"
+msgstr "Вставьте полученный ключ в поле ниже"
+
+msgid "Last activities"
+msgstr "Последнее действие"
